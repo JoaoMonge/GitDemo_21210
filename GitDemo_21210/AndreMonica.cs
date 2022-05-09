@@ -2,6 +2,7 @@
 
 public class AndreMonica
 {
+    public int idade = 27;
     public int Joao()
     {
         return 1;
