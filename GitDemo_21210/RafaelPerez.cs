@@ -2,5 +2,6 @@
 
 public class RafaelPerez
 {
+	public int x;
 	
 }
