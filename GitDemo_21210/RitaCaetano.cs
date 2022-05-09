@@ -5,7 +5,7 @@ public class RitaCaetano
     public void hello()
     {
         Console.WriteLine("hello to everyone");
-        Console.WriteLine("HELLO");
+        Console.WriteLine("Isto é muito útil , adoroooo!!!");
     }
     
 }
