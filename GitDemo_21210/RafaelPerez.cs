@@ -2,6 +2,8 @@
 
 public class RafaelPerez
 {
-	public int x;
-	
+	public static void Teste()
+	{
+		Console.WriteLine("Testando envio Rafael");
+	}
 }
