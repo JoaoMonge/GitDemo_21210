@@ -2,5 +2,7 @@
 
 public class PauloSantos
 {
-    
+    public void hello(){
+        Console.WriteLine("Ola 21210");
+    }
 }
