@@ -11,8 +11,7 @@ Console.WriteLine("Boa tarde, Daniel Santana");
 
 RafaelPerez.Teste();
 
-/*
+
 RitaCaetano r4 = new RitaCaetano();
 RitaCaetano r2 = new RitaCaetano();
 RitaCaetano r3 = new RitaCaetano();
-*/
