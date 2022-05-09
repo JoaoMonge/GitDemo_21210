@@ -6,5 +6,10 @@ public class AndreMonica
     {
         return 1;
     }
+
+    public void R()
+    {
+      Console.WriteLine("Foi um merge");  
+    }
     
 }
