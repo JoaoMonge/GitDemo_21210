@@ -10,3 +10,6 @@ Console.WriteLine("Andre_Monica");
 Console.WriteLine("Boa tarde, Daniel Santana");
 
 RafaelPerez.Teste();
+
+RitaCaetano rt =new RitaCaetano();
+rt.hello();
