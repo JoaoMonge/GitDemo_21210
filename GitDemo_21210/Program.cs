@@ -13,3 +13,5 @@ RafaelPerez.Teste();
 
 RitaCaetano rt =new RitaCaetano();
 rt.hello();
+
+RitaCaetano r2 = new RitaCaetano();
